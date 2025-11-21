@@ -8,5 +8,5 @@ libraryDependencies ++= Seq(
 // Trying without version reference
 
 libraryDependencies ++= Seq(
-  "io.cucumber" % "cucumber-junit" % "7.29.0"
+  "io.cucumber" % "cucumber-junit" % "7.32.0"
 )
