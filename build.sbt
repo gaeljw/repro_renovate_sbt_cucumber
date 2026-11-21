@@ -1,5 +1,5 @@
 
-val cucumberVersion = "7.29.0"
+val cucumberVersion = "8.1.0"
 
 libraryDependencies ++= Seq(
   "io.cucumber" % "cucumber-core" % cucumberVersion
